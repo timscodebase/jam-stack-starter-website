@@ -1,6 +1,6 @@
 import sveltePreprocess from 'svelte-preprocess';
 import netlify from '@sveltejs/adapter-netlify';
-import pkg from './package.json';
+import pkg from './package;
 
 /** @type {import('@sveltejs/kit').Config} */
 module.exports = {
