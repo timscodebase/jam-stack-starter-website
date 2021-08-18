@@ -10,20 +10,21 @@
   },
   "type": "module",
   "dependencies": {
-		"@sveltejs/adapter-netlify": "1.0.0-next.4"
-	},
+    "@sveltejs/adapter-netlify": "1.0.0-next.4",
+    "@sveltejs/adapter-vercel": "^1.0.0-next.0"
+  },
   "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-regular-svg-icons": "^5.15.4",
     "@sveltejs/kit": "next",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-svelte3": "^3.2.0",
+    "normalize.css": "^8.0.1",
+    "pkg": "^5.3.1",
     "prettier": "~2.3.2",
     "prettier-plugin-svelte": "^2.3.1",
     "svelte": "^3.42.1",
-    "@fortawesome/free-brands-svg-icons": "^5.15.4",
-    "@fortawesome/free-regular-svg-icons": "^5.15.4",
-    "normalize.css": "^8.0.1",
-    "pkg": "^5.3.1",
     "svelte-awesome": "^2.3.2",
     "svelte-preprocess": "^4.7.4",
     "vite-imagetools": "^3.6.8"
