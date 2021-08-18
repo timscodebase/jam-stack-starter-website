@@ -8,6 +8,7 @@
     "lint": "prettier --ignore-path .gitignore  --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
     "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
   },
+  "type": "module",
   "dependencies": {
     "@sveltejs/adapter-netlify": "^1.0.0-next.28",
     "@sveltejs/kit": "next",
