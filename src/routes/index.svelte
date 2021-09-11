@@ -116,16 +116,16 @@ jam-stack-starter</pre>
                   5px -2px 10px var(--highlight-dark);
     }
     25% {
-      text-shadow: 5px 2px 10px var(--highlight-light),
-                  -5px -2px 10px var(--highlight-dark);
+      text-shadow: -5px -2px 10px var(--highlight-light),
+                  5px 2px 10px var(--highlight-dark);
     }
     50% {
       text-shadow: 5px -2px 10px var(--highlight-light),
                   -5px 2px 10px var(--highlight-dark);
     }
     75% {
-      text-shadow: -5px -2px 10px var(--highlight-light),
-                  5px 2px 10px var(--highlight-dark);
+      text-shadow: 5px 2px 10px var(--highlight-light),
+                  -5px -2px 10px var(--highlight-dark);
     }
     100% {
       text-shadow: -5px 2px 10px var(--highlight-light),
