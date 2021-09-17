@@ -4,7 +4,7 @@
 
 <!-- <GitBanner /> -->
 <header>
-  <h1>JAM Stack Starter</h1>
+  <h1>Jamstack Starter</h1>
   <h2>The easiest way to get started on your next web project</h2>
 <p>This CLI will walk you though your first project, and get you setup with the tools you need to build a modern web app. There are no prerequisites, and no configuration. Just run the command and you're ready to go.</p>
 </header>
@@ -25,7 +25,7 @@ jam-stack-starter</pre>
 
 <footer>
   <p>
-    JAM Stack Starter &copy; 2021</p>
+    Jamstack Starter &copy; 2021</p>
   <p>
     Created by <a class="green" href="https://timsmith.tech" target="_blank" rel="nofollow onopener">Tim Smith</a>
   </p>
