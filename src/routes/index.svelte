@@ -135,7 +135,7 @@ jam-stack-starter</pre>
 
   @keyframes spin {
     0% {
-      box-shadow: -20px 10px 50px var(--highlight-light),
+      box-shadow: -20px 5px 50px var(--highlight-light),
                   20px -5px 50px var(--highlight-dark);
     }
     25% {
